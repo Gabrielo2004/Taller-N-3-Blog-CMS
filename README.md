@@ -9,6 +9,7 @@ ChatGPT, para ayudarme en orientacion del codigo y su orden
 
 ### Estructura del Proyecto
 
+```
 CMSBlog/
 ├── assets/
 │   ├── css/
@@ -19,6 +20,8 @@ CMSBlog/
 ├── index.php
 ├── guardarpost.php
 └── conexion.php
+```
+
 
 ## Pasos para ejecutar localmente
 
