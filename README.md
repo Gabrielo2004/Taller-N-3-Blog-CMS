@@ -7,6 +7,19 @@ Este proyecto permite crear y visualizar publicaciones tipo blog, incluyendo im�
 HTML, CSS, JavaScript, PHP y MySQL. 
 ChatGPT, para ayudarme en orientacion del codigo y su orden
 
+### Estructura del Proyecto
+
+CMSBlog/
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── scripts.js
+├── uploads/               
+├── index.php
+├── guardarpost.php
+└── conexion.php
+
 ## Pasos para ejecutar localmente
 
 1. Clona el repositorio o descomprime los archivos.
